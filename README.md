@@ -1,5 +1,5 @@
 ## Hi there 👋 
-My name is Zachary Medley I am 29 years old, I live in White, GA and I am pursuing a job in cybersecurity. I recently completed a certification course for Google Cybersecurity. I also plan on getting my certifications in Security+, A+, and Network+ to start out. I will post my projects here and other things I create or find interesting to share with anyone. 
+My name is Zachary Medley I am 29 years old, I live in White, GA and I am pursuing a job as a Full Stack Software Developer. I recently completed a certification course for Google Cybersecurity. I will post my projects here and other things I create or find interesting to share with anyone. 
 
 Skills- Python, Linux, SQL
 
